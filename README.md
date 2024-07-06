@@ -3,6 +3,7 @@ Complete Mern Stack POS Project
 
 https://pos-mern-b0l8.onrender.com/
 
+![Screenshot (55)](https://github.com/prakharujn1/POS-MERN/assets/128589011/31f17af5-0345-4938-8b62-5bf1867fa48a)
 ![Screenshot (50)](https://github.com/prakharujn1/POS-MERN/assets/128589011/6d66ab0e-41cf-466c-82a2-c1e48b0fb928)
 ![Screenshot (54)](https://github.com/prakharujn1/POS-MERN/assets/128589011/fbf11395-cc92-4912-a4f6-43c5b4781b2d)
 ![Screenshot (49)](https://github.com/prakharujn1/POS-MERN/assets/128589011/b6f97672-c55e-4a96-974d-30109ab80fb8)
