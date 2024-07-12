@@ -1,5 +1,5 @@
-# Restaurant POS-Mern-Stack-Project
-Complete Mern Stack POS Project
+# Restaurant Management System Project
+Complete Mern Stack Project
 
 https://pos-mern-b0l8.onrender.com/
 
