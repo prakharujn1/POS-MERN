@@ -1,8 +1,7 @@
 # Restaurant Management System Project
 Complete Mern Stack Project
 
-https://pos-mern-b0l8.onrender.com/
-
+Can take a demo of project at : https://rms-023l.onrender.com/
 
 ![Screenshot (57)](https://github.com/user-attachments/assets/ec8e4337-1d3d-4a39-afe6-ee6522834367)
 ![Screenshot (58)](https://github.com/user-attachments/assets/cfc63787-bbaf-4cb8-ae1d-0125f8252087)
